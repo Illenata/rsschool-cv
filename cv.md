@@ -16,7 +16,7 @@ I want to learn JS to change my profession. I like to solve puzzles. JS was chos
   * Basic JS  
 
 ## Experience  
-  * Right now in process of learning Udemy JS course
+  * Right now in process of learning Udemy JavaScript + React course
   
 ## Education  
   * learn.javascript.ru first block  
