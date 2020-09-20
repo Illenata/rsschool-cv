@@ -1,0 +1,23 @@
+img {
+    width: 180px;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  height: 200px;
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  align-items: center;
+
+}
+
+main {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
